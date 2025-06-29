@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">저는 SSAFY에서 개발을 배우고 있는 "ywk927"입니다</div>  
+### <div align="center">저는 Frontend 개발자 "고영우"입니다</div>  
   
 
 - 🔭 저는 SSAFY 서울 캠퍼스에 다니고 있습니다.  
