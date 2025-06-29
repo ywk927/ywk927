@@ -1,92 +1,69 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">저는 Frontend 개발자 "고영우"입니다</div>  
-  
-
-- 🔭 저는 SSAFY 서울 캠퍼스에 다니고 있습니다.  
-  
-
-- 🌱 파이썬과 알고리즘을 배울 것 입니다.  
-  
-
-- ⚡ 궁금한 것이 있으면 언제든지물어봐주세요!  
-  
-
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-  
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-</td><td valign="top" width="33%">
+### <div align="center">안녕하세요! 프론트엔드 개발자 고영우입니다 👋</div>
 
+---
 
+- 🎓 SSAFY (삼성청년 SW AI Academy) 13기
+- 💰 Django와 Vue.js를 활용하여 **금융상품 추천 서비스** 구현
+- 🤝 React(JavaScript) 기반 **개발자 매칭 플랫폼**에서 Frontend 구현
+- 🧠 알고리즘 A+ 취득
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
+---
 
-</td><td valign="top" width="33%">
+## 🛠 기술 스택
 
+### 💻 Languages & Frameworks
 
-
-### DevOps  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
-<a href="https://github.com/ywk927" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" />
+</div>
 
-<br/>  
+### ⚙️ Tools
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" height="50" />
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ywk927&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
+## 🧩 주요 프로젝트
 
+### 🔹 금융상품 추천 서비스 - [Pynance](https://github.com/ywk927/final-pjt)
+- 사용자의 자산, 연령, 연봉 정보를 입력받아 OpenAI API 기반 금융상품 추천
+- Django + Vue.js + Pinia + KakaoMap + YouTube API
 
-## Recent Blog Posts  
-  
+### 🔹 개발자 매칭 플랫폼 - [weMatch](https://github.com/ywk927/weMatch)
+- 개발자 간 기술/관심사 기반 팀 매칭
+- React + Zustand + Node.js + MongoDB
 
-<br/>  
+---
 
-  
+## 📊 GitHub Stats
 
-<br/>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ywk927&show_icons=true&count_private=true&hide_border=true" />
+</div>
 
-  
+---
 
-<br/>  
+## 📫 Connect with Me
 
+<div align="center">
+  <a href="https://github.com/ywk927" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</div>
 
-<br />
+<br/>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">
+  <sub>Generated with <a href="https://profilinator.rishav.dev/">Github Profilinator</a></sub>
+</div>
