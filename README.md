@@ -2,9 +2,9 @@
   <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>
 
-### <div align="center">안녕하세요! Frontend · Android 개발자 고영우입니다 👋</div>
+### <div align="center">Hi there, I'm Young Woo Ko — Frontend · Android Developer</div>
 
-<p align="center"><b>사용자가 편하게 쓰는 화면을, 빠르고 일관되게 구현합니다.</b></p>
+<p align="center"><b>Building intuitive UIs with speed and consistency.</b></p>
 
 ---
 
